@@ -1,0 +1,17 @@
+{
+  "name": "try-xserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mucsi96/try-xserver",
+  "author": "Igor Bari <mucsi96@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
