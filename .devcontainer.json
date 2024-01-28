@@ -1,1 +1,4 @@
-{"image":"mcr.microsoft.com/devcontainers/node"}
+{
+  //https://github.com/devcontainers/images/tree/main/src/typescript-node
+  "image": "mcr.microsoft.com/devcontainers/typescript-node"
+}
