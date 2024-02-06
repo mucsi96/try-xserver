@@ -1,6 +1,6 @@
 {
   // https://github.com/devcontainers/images/blob/main/src/python
-  "image": "mcr.microsoft.com/devcontainers/python:3.12-bookworm",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12-bullseye",
   "features": {
     // https://containers.dev/features
     "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
