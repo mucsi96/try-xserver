@@ -1,7 +1,7 @@
 import sys
 from Xlib import X, display as xdisplay, Xutil
 
-display = xdisplay.Display("host.docker.internal:0")
+display = xdisplay.Display()
 screen = display.screen()
 window = screen.root.create_window(
     50, 50, 300, 200, 2,
